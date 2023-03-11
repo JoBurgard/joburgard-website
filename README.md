@@ -3,4 +3,4 @@
 Built with SvelteKit and Tailwindcss.
 
 ## License / Unlicense
-This is free and unencumbered software released into the public domain. (see LICENSE file)
+This is free and unencumbered software released into the public domain. (See license file.)
